@@ -1,5 +1,4 @@
 import os
-
 files_to_wipe = ["students.txt", "disciplines.txt", "grades.txt", "students.pickle", "disciplines.pickle", "grades.pickle"]
 
 print("--- WIPING DATA ---")
@@ -14,4 +13,3 @@ for filename in files_to_wipe:
         print(f"Not found (Clean): {filename}")
 
 print("\n--- DONE ---")
-print("Now run your main.py. The app will generate fresh, synced data.")
