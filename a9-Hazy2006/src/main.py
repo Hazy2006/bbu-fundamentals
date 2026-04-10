@@ -9,7 +9,7 @@ from src.ui.console_ui import ConsoleUI
 
 
 def main():
-    # 1. Create repositories (loads settings automatically)
+    # 1. Create repositories 
     student_repo, discipline_repo, grade_repo = create_repositories()
 
     # 2. Create services
