@@ -1,0 +1,10 @@
+977,Biology
+233,Art
+445,Music
+743,Geography
+346,Physics
+370,Math
+299,History
+112,Cs
+300,Mandarin
+330,Spanish
