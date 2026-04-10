@@ -8,11 +8,9 @@ class ConsoleUI:
     # Console-based user interface for Gomoku.
 
     def __init__(self, game_controller):
-        # Initialize console UI with GameController instance.
         self._controller = game_controller
-
+        
     def run(self):
-        # Run the console UI game loop.
         self.display_welcome()
 
         while True:
