@@ -1,0 +1,20 @@
+7565;Mathematics
+9407;Computer Science
+4167;Physics
+8336;Chemistry
+9181;Biology
+8607;Literature
+4379;History
+9739;Geography
+3236;Philosophy
+7454;Psychology
+9580;Economics
+1025;Sociology
+4759;Political Science
+4980;Art
+5454;Music
+2993;Physical Education
+3016;Foreign Languages
+1012;Engineering
+7617;Medicine
+2159;Law

@@ -1,0 +1,8 @@
+1,100,Food
+5,200,Clothes
+10,150,Utilities
+15,80,Entertainment
+12,500,Rent
+20,100,Food
+21,60,Gas
+25,300,Insurance
